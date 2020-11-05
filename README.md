@@ -1,0 +1,1 @@
+# Effect-of-COVID-19-Articles-Text-Sentiment-on-Price-Per-Share-of-S-P-500-and-VIX-Index
