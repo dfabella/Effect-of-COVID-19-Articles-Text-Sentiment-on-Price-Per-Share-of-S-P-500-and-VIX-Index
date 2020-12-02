@@ -77,7 +77,7 @@ def getCovidArticles(articles_urls):
 
 
 def getArticleContents(covid_articles_urls):
-    '''returns text of articles as a list of strings'''
+    '''returns article summary text as a list of strings'''
     
     summary_text = ([])
     for i in np.arange(len(covid_articles_urls)):
